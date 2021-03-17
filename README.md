@@ -18,7 +18,7 @@
 <p align="left">
     		
   <img src="https://emoji.fileformat.info/png/1f407.png" min-width="20px" max-width="20px" width="20px" align="left" alt="rabit"> 
-  Habilidades: HTML5, CSS3, JavaScript, React / React Native, Bulma and UI/UX Design.
+  Habilidades: HTML5, CSS3, JavaScript, Dart, React / React Native, Flutter, Bulma and UI/UX Design.
     	 
 </p>
 
