@@ -5,7 +5,7 @@
  </p>
 
 <p align="left"> 
-    Olá meu nome é Thiago Boneth, sou desenvolvedor de <strong>Front-End</strong> e <strong>UI/UX Designer</strong>.<br>
+    Olá meu nome é Thiago Boneth, sou desenvolvedor de <strong>Full-Stack Developer</strong> e <strong>UI/UX Designer</strong>.<br>
     Estou em uma crescente de aprendizado e assim vou continuar pela vida inteira. Vamos nos conhecer?
 </p>
 
@@ -18,7 +18,7 @@
 <p align="left">
     		
   <img src="https://emoji.fileformat.info/png/1f407.png" min-width="20px" max-width="20px" width="20px" align="left" alt="rabit"> 
-  Habilidades: HTML5, CSS3, JavaScript, Dart, React / React Native, Flutter, Bulma and UI/UX Design.
+  Habilidades: HTML5/CSS3, JavaScript, Dart, Java, Flutter, Bulma and UI/UX Design.
     	 
 </p>
 
